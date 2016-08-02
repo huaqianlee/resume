@@ -2,6 +2,7 @@ html {
   background: url(../images/clean_textile.png);
   margin: 0;
   padding: 0 1em 1em;
+  position: relative;
 }
 
 body {
@@ -11,10 +12,13 @@ body {
   color: #333333;
   border: none;
   line-height: 1.5;
-  margin: 0 auto;
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
   max-width: 900px;
   text-align: left;
   color: black;
+
 }
 
 img {

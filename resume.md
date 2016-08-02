@@ -1,125 +1,106 @@
-伍 翀
-=============
-
-研发工程师
+李 华 乾 | Andy Lee
 -----------------------
 
-- 联系电话: [180-****-5187](tel://180-****-5187)
-- 电子邮箱: <imjark@gmail.com>
-- 个人博客: [wuchong.me](http://wuchong.me)
-- Github : [wuchong](http://github.com/wuchong)
-- 豆瓣书单: [黑桃杰克](http://book.douban.com/people/wuchong1014/)
+软件工程师
+-----------------------
+*英文简历地址：[http://huaqianlee.github.io/resume_en.html](http://huaqianlee.github.io/resume_en.html)*
+
+- 个人博客: [huaqianlee.github.io](http://huaqianlee.github.io)
+- 联系电话: [185-****-0564](tel://180-7559-0564)
+- 电子邮箱: <huaqianlee@gmail.com>
+- Github : [http://github.com/huaqianlee](http://github.com/huaqianlee)
+- 豆瓣书单: [http://book.douban.com/people/huaqianlee/](http://book.douban.com/people/huaqianlee/)
 
 
-Summary
+简介
 -------
 
-北京理工大学的在读研究生，平时以 Mac OS X 为日常操作系统，喜欢 Linux 技术和分布式技术。关注一些开源项目，也会在 Github 上分享自己的代码。行走在追寻技术的道路上，喜欢将自己的学习经验分享在博客上。拥有较强的实践能力，能够独立完成小型的产品和项目。
+毕业于四川工商学院电子信息工程专业，平时主要使用Ubuntu与windows操作系统。热爱技术热爱开源，为Linux、Android而着迷。时常关注一些新技术，关注开源项目，并喜欢贡献自己一份力量。目前为止主要从事底层及系统级工作，但自己对app及web也比较感兴趣，愿意花几乎所有业余时间在英语、Android等学习上面。
 
 
-Skills & Expertise
+技能
 ------------------
-这些是我平时用过/熟悉的编程语言、框架和工具，带 ^†^ 符号的是我比较喜欢和常用的。
+这些是我平时用过/熟悉的编程语言和工具，带 ^†^ 符号的是我比较熟悉和常用的。
 
-### Programming Languages
+### 编程语言
 
-- [Java](http://developer.mozilla.org/en/JavaScript)^†^
-- [Python](https://www.python.org/)^†^
-- [C/C++]()
-- [Shell](http://zh.wikipedia.org/wiki/Unix_shell)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [HTML]()
+- [Java](http://developer.mozilla.org/en/JavaScript)^†^　　[C/C++]()^†^　[Shell](http://zh.wikipedia.org/wiki/Unix_shell)　　[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)　　[HTML]()
 
+### 工具
 
-### Frameworks & APIs
+- [Vim](http://www.vim.org)^†^  [Git](http://git-scm.com)^†^  [Android Studio]()^†^  [Eclipse](http://www.eclipse.org/)^†^  [Ubuntu Linux](http://ubuntu.com)^†^  [Sublime Text](http://www.sublimetext.com)^†^  [SourceInsight]()^†^  [MySQL](http://mysql.com)
 
-- [Hadoop](http://hadoop.apache.org/)
-- [MapReduce](http://zh.wikipedia.org/wiki/MapReduce)
-- [Grails](https://grails.org/)
-- [ASP.NET](http://www.asp.net/)
-- [Hibernate](http://hibernate.org/)
-- [Bootstrap](http://getbootstrap.com/2.3.2/)
-
-
-### Software & Tools
-
-- [Mac OS X](http://apple.com/macosx)^†^
-- [Vim](http://www.vim.org)^†^
-- [Git](http://git-scm.com)^†^
-- [Eclipse](http://www.eclipse.org/)^†^
-- [IntelliJ IDEA](http://www.jetbrains.com/idea/)
-- [Ubuntu Linux](http://ubuntu.com)
-- [Sublime Text](http://www.sublimetext.com)
-- [Subversion](http://svn.apache.org)
-- [MySQL](http://mysql.com)
-- [SQL Server](http://www.microsoft.com/en-us/server-cloud/products/sql-server/)
-
-
-Experience
+经验  
 ----------
-
-### **汽车信息智能管理系统** 
-
-*2013年9月 - 2014年4月* ， 工程项目（ASP.NET）
-
-本项目由中国汽车技术研究中心委托，使用 ASP.NET 和 SQL Server 技术实现了对汽车整车、零部件、企业的增删改查，多条件查询，产销量报表统计分析，批量数据导入导出，权限管理，日志管理等功能。
-
-独立开发了此项目，包括前端、后台和数据库的开发，代码量 10 万多行。独立完成了整个项目的所有阶段，包括客户需求交流，需求分析，设计，开发，测试，验收，部署，维护等。项目目前成功上线，并运行稳定。
-
-### **分布式存储视频网站**
-
-*2013年9月 - 2013年12月* ，研究项目（Hadoop）  
-
-本项目是实现基于分布式存储的视频网站，使用 hdfs 存储视频，nginx+php+mysql 提供网站服务，nginx 反向代理实现负载均衡。并在实验室中使用五台真机和虚拟技术搭建了全分布式环境，以及对 hdfs+fuse 和网站进行了性能测试。
-
-此项目中，作为项目组长负责系统的整体架构设计，参与了系统所有模块的开发，完成了全分布式集群的搭建以及进行了性能测试。  
-
-### **航天类软件安全性测试平台**
-
-*2012年9月 - 2013年6月* ， 工程项目（Java）
-
-该项目是由中国航天软件评测中心委托，主要用于协助软件测试和管理。系统基于 C/S 架构，采用 Eclipse RCP 技术开发，实现了图形化测试环境配置、动态仿真测试、代码静态分析、故障树与测试用例生成等功能。
-
-此项目中，主要负责图形化测试环境配置（使用 GEF 框架）和代码静态分析模块的实现。并参与了项目从立项到验收部署的全部过程。
-
-### **微博采集和分析系统的设计与实现**
-
-*2013年1月 - 2013年6月* ， 毕业设计（Java）
-
-该毕业设计主要用 Java 实现了微博爬虫，并爬取了 52 万的用户以及之间的好友关系，并将数据存储在 MySQL 和 HBase 上。最后基于 Hadoop 平台的 MapReduce 计算框架实现了双向广度优先搜索算法，并在全分布模式下，计算了海量微博用户之间是否存在六度人脉关系以及小世界特性。
+工作经历 *2011.10 - 至今*
 
 
-Projects
+### **无人机开发** 
+
+*2016.03 - 至今*， 深圳思路名扬通讯技术股份有限公司
+
+
+### **智能戒指开发** 
+
+*2016.02 - 2016.03*， 深圳思路名扬通讯技术股份有限公司
+
+
+### **Android手机平板驱动移植** 
+
+*2014.10 - 2016.02*， 深圳思路名扬通讯技术股份有限公司
+
+主要负责高通平台(MSM8916、8909)驱动电源管理部分移植、三大件调试(LCD、TP、Camera)及部分应用加系统级移植，解决开关机充放电及睡眠功耗遇到的一切问题，解决其他功能性问题。如：待机电流大、手机自动重启、死机等，涉及到的IC主要有pm8916、smb135x等。
+
+热爱Android，在工作中，也会涉及到从最底层到APP一切内容，对整个Android系统有一定了解，能写简单APP。
+
+### **无线舞台灯控制系统**
+
+*2014年3月 - 2014年8月* ，成都无线龙通讯科技有限公司  
+
+本项目是通过平板或者电脑借助于以太网控制舞台灯。基于WiFi、ArtNet协议（一种舞台灯光控制协议）、单片机技术来实现的，包括Android、IOS客户端。
+
+作为项目负责人，负责实现WiFi通信、ArtNet协议及Android客户端，WiFi通信部分主要修改Marvell原厂提供的初级代码、封装串口通信功能，负责部分命令实现。按照Artnet协议的官方文档分别在单片机端和Android客户端实现Artnet协议。参与了项目从立项到验收部署的全部过程。
+
+
+### **物联网智能仓库系统**
+
+*2013年7月 - 2014年3月* ， 成都无线龙通讯科技有限公司 
+
+本项目实现通过android客户端、linux平台、网页及手机短信监控控制仓库温湿度、光照等信息，并能报警处理智能调控。主要负责Linux驱动移植、Linux平台监控信息显示应用编写、单片机Zigbee网络通信部分以及Android客户端实现。
+
+通过这个项目，我对Android产生了浓厚兴趣，开始我的Android之旅。
+
+### **智能家居监控平台**
+
+*2012年12月 - 2013年5月* ， 成都无线龙通讯科技有限公司 
+
+搭建智能家居监控系统的Linux平台，负责uboot、内核、文件系统及驱动的移植工作，以及Linux应用演示demo的实现。
+
+
+### **蔬菜温室大棚监控系统**
+
+*2012年9月 - 2013年6月* ， 成都无线龙通讯科技有限公司 
+
+监控各个角落的环境情况，然后无线传输给主控制器，在由主控制器显示和控制。本项目主要基于Ezmac无线协议及单片机技术来实现。
+
+我主要负责移植裁剪EZMAC协议，si100x发送、接收节点代码编写，stm32主控制板代码实现（基于ucosII）。
+
+
+教育背景
 ---------
 
-### **[Jacman](https://github.com/wuchong/jacman)**  &nbsp; <iframe src="http://ghbtns.com/github-btn.html?user=wuchong&repo=jacman&type=watch&count=true"
-  allowtransparency="true" frameborder="0" scrolling="0" width="95" height="20" style="vertical-align: middle;"></iframe><iframe src="http://ghbtns.com/github-btn.html?user=wuchong&repo=jacman&type=fork&count=true"
-  allowtransparency="true" frameborder="0" scrolling="0" width="95" height="20" style="vertical-align: middle;"></iframe>
-
- 一款为 Hexo 博客设计的前端主题，响应式设计，内置功能丰富。
-
-### **[码农圈](https://coderq.com)** 
- 基于 Discourse 搭建的面向程序员交流分享的社区。
-
-Education
----------
-
-2013.09 - 2015.07 ，[北京理工大学](http://www.bit.edu.cn/)，软件学院，研究生（保研）  
-2009.09 - 2013.07 ，[北京理工大学](http://www.bit.edu.cn/)，软件学院，本科生
+2008.09 - 2012.07 ，四川工商学院，电子信息工程,本科
 
 
-Honors and Awards
+证书与荣誉
 -----------------
 
-- **阿里巴巴大数据竞赛**
-- 第二届**"中国软件杯"**二等奖、最佳创新奖，*2013.08*
-- 北京理工大学 **优秀毕业生**，*2013.06*
-- 北京理工大学 **国家奖学金**，*2012.12*
-- 本科生奖学金一等奖（2次）、二等奖（1次）
+- 全国英语四级
+- 全国计算机二级
+- 全国电子设计大赛四川省二等奖， *2011.11*
+- 全国电子设计大赛全国三等奖，*2011.12*
 
-
-Interests
+感谢
 ---------
 
-喜欢尝试新鲜的事物，爱折腾，爱观察，业余时间喜欢桌游、动漫、游泳、旅游等。
-
+感谢您花时间阅读我的简历,期望能成为你们这个大家庭中的一员。
