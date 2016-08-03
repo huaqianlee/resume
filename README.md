@@ -1,7 +1,7 @@
 
 RESUME
 ------
-**我的简历：[中文简历](resume_cn.html)　|　[英文简历](resume_en.html)**
+**我的简历：[中文简历](resume_cn.md)　|　[英文简历](resume_en.md)**
 
 
 ##SOURCE
