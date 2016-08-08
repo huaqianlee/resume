@@ -15,7 +15,7 @@ Software Engineer
 SUMMARY
 -------
 
-I graduated from Sichuan Normal University Chengdu College . Now I mainly use Ubuntu and Windows operating system. I do love open source technology and be crazy for Linux and Android. I always focus on some new technology and open source projects which I would like to contribute my strength to. So far my main work is about the driver and the system level, but I am interested in app and web , too. I  almost spend  all of my spare time on learning English, Android, etc.
+I graduated from Sichuan Technology and Business University . Now I mainly use Ubuntu and Windows operating system. I do love open source technology and be crazy for Linux and Android. I always focus on some new technology and open source projects which I would like to contribute my strength to. So far my main work is about the driver and the system level, but I am interested in app and web , too. I  almost spend  all of my spare time on learning English, Android, etc.
 
 INTRODUCTION
 ------------------
