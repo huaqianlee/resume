@@ -15,7 +15,7 @@ $endif$
   <![endif]-->
 $if(highlighting-css)$
   <style type="text/css">
-/* $highlighting-css$ */
+$highlighting-css$
   </style>
 $endif$
 $for(css)$

@@ -1,100 +1,79 @@
 Andy Lee | 李 华 乾
-=============
+-----------------------
 
 Software Engineer
 -----------------------
 *Chinese Resume：[http://huaqianlee.github.io/resume_cn.html](http://huaqianlee.github.io/resume_cn.html)*
 
 - Personal Homepage: [huaqianlee.github.io](http://huaqianlee.github.io)
-- Tel: [185-****-0564](tel://180-7559-0564)
-- Email: <huaqianlee@gmail.com>
 - Github : [http://github.com/huaqianlee](http://github.com/huaqianlee)
-- Douban Book: [http://book.douban.com/people/huaqianlee/](http://book.douban.com/people/huaqianlee/)
+- Tel: [199-xxxx-2050](tel://199-xxxx-2050)
+- Email: <huaqinalee@gmail.com>
 
-
-SUMMARY
--------
-
-I graduated from Sichuan Technology and Business University . Now I mainly use Ubuntu and Windows operating system. I do love open source technology and be crazy for Linux and Android. I always focus on some new technology and open source projects which I would like to contribute my strength to. So far my main work is about the driver and the system level, but I am interested in app and web , too. I  almost spend  all of my spare time on learning English, Android, etc.
-
-INTRODUCTION
+Profiles
 ------------------
+- More than 8 years of work experience in Android/Linux/Embedded Development.
+- Familiar with C/C++，Java，Python，Shell，etc. Always write some scripts to improve my work efficiency.
+- Proficiency in Linux kernel driver development and familiar with programming for Java and Python applications.
+- Familiar with embedded linux C advanced application programming and mechanisms of the kernel.
+- Familiar with Qulacomm platform(like MSM8909/8916,MSM8974,SDM450, etc.), MTK platform(like MTK6570/6739).
+- Experience in development and maintenance of pmic, peripherals, performance, power consumption, stability, etc.
 
-A boy who wants to make a cool app and to make the world different.
-
-SKILLS 
+Skills
 ------------------
-I get used to the following programming languages and tools , I am familiar with taking ^†^ symbol and I frequently use it. 
+I get used to the following programming languages and tools , I am familiar with taking † symbol and I frequently use it.
 
-### Programming Languages
+- [C/C++](http://www.cplusplus.com/)^†^　[Java](https://www.java.com/en/)^†^　[Shell](http://zh.wikipedia.org/wiki/Unix_shell)^†^　[Python](https://www.python.org/)　[HTML](https://html.spec.whatwg.org/multipage/)
 
-- [Java](http://developer.mozilla.org/en/JavaScript)^†^　　[C/C++]()^†^　[Shell](http://zh.wikipedia.org/wiki/Unix_shell)　　[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)　　[HTML]()
+- [Vim](http://www.vim.org)^†^　[Git](http://git-scm.com)^†^　[Android Studio]()^†^　[Docker](https://www.docker.com/)　[Ubuntu Linux](http://ubuntu.com)^†^　[MySQL](http://mysql.com)
 
-### TOOLS
-
-- [Vim](http://www.vim.org)^†^　　[Git](http://git-scm.com)^†^　　[Android Studio]()^†^　　[Eclipse](http://www.eclipse.org/)^†^　　[Ubuntu Linux](http://ubuntu.com)^†^　　[Sublime Text](http://www.sublimetext.com)^†^　　[SourceInsight]()^†^　　[MySQL](http://mysql.com)
-
-EXPERIENCE  
+Experience
 ----------
-Work Experience *Nov.2011 - Present*
+Work Experience *October.2011 - Present*
 
-### **Android system porting** 
+### **Mobile phone based on Qualcomm platform**  
 
-*Oct.2014 - Present*， IDEA INTERNATIONAL DEVELOPMENT LIMITED
+*April.2018 - Present，Thunder Software Technology Co., Ltd*  
 
-I am mainly responsible for the driver of qualcomm platform (MSM8916, 8909) mobile phone, including power management, LCD/TP/Camera driver. Certainly , I also do some work about app and others. Solve all the problems of charging, discharging and power consumption. such as, standby current is high, mobile phone restarts automatically, crash,etc. My work involves the IC pm8916, smb135x, smb1360, etc.
+Responsible for BSP and driver development of Qualcomm platform(MSM8909/SDM450/SM6125/SDM660), including power management, charger/battery, USB , stability , power comsumption, etc. Implemented a large number of customized Charger/Battery/USB and other related codes, such as expanding one USB interface to three interfaces.
 
-I love Android, and my work involves all from the bottom to the APP. I have a good understanding of Android.
+Responsible for assisting and solving difficult problems, participating in BSP technical construction, extracting technical solutions from existing projects, and outputting solutions to help everyone improve R&D efficiency. Built the Gitbook server of the local network and initiated the team members' technical output, effectively forming a technical deposit.
 
+### **Mobile phone based on MTK platform** 
 
-### **Wireless stage lighting control system**
+*November.2017 - April.2018, EASTAEON Technology Co., Ltd*
 
-*Mar.2014 - Aug.2014* ，Chengdu WXL Communication Technology Co.,LTD  
+Responsible for BSP and driver development of MTK platform(MTK6570,MTK6739), including LCD/TP/Camera  , charger , sweeping the pier, etc. 
 
-In this project, I controled the stage light through the tablet or computer by Ethernet. Based on wifi, ArtNet protocol (a kind of stage lighting control protocol) and single chip microcomputer technology, consists of both Android client and IOS client.
+### **Drone based on Qualcomm platform**  
 
-As a project director, I was responsible for implementing the WiFi communication depending on the code improved by Marvell, ArtNet protocol and Android client. And I dominated all process of the project.
+*March.2016 - October,2017， IDEA INTERNATIONAL DEVELOPMENT LIMITED*  
 
+Mainly responsible for BSP and flight control system development of Qualcomm platform(MSM8074) Linaro system. Guaranteed than linaro's bring-up and normal work of electric adjustment board, IMU, GPS, Magnetic, etc.
 
-### **The Internet of things intelligent warehouse system**
+### **Mobile phone based on Qualcomm platform**  
 
-*Jul.2013 - Mar.2014* ， Chengdu WXL Communication Technology Co.,LTD
+*October.2014 - March,2016， IDEA INTERNATIONAL DEVELOPMENT LIMITED*
 
-This project was for controlling and monitoring warehouse through the android client, Linux platform, web and mobile phone message. such as the temperature and humidity, illumination. I was mainly responsible for Linux driver, Linux platform monitoring information display application, microcontroller Zigbee network and the Android client.
+Mainly responsible for the driver of Qualcomm platform (MSM8916/8909, MSM8974) mobile phone, including power management, charger, LCD/TP/Camera driver. solve problems within the scope of responsibility and at the system level.
 
+### **IoT based on embedded platform**  
 
-From this project, I have been interested in Android and started my journey to Android.
+*October.2011 - August.2013，Chengdu WXL Communication Technology Co., LTD*
 
+Mainly responsible for embedded development of Samsung platform and stm32, including schematic drawing, microcontroller programming , samsung platform linux porting , and linux application programming.
 
-### **Intelligent household monitoring platform**
-
-*Dec.2012 - May.2013* ， Chengdu WXL Communication Technology Co.,LTD 
-
-Building a smart home monitoring and control system by linux, I was responsible for uboot, kernel , file system and driver, and Linux application demo.
-
-### **Vegetable greenhouses monitoring system**
-
-*Sep.2012 - Jun.2013* ， Chengdu WXL Communication Technology Co.,LTD 
-
-Monitoring the environment, and transmiting the information to the main controller . The main controller as the core chip will display and control node info. This project was mainly based on the Ezmac wireless protocols and single-chip microcomputer technology.
-
-I was mainly responsible for EZMAC protocol, si100x coding, and stm32 master board code implementation (based on ucosII).
-
-
-EDUCATION
+Education
 ---------
+Sep.2008 - Jul.2012 ，Sichuan Technology and Business University,　Electronic Information Engineering,　Bachelor of Engineering
 
-Sep.2008 - Jul.2012 ，Sichuan Normal University Chengdu College,　Electronic Information Engineering,　Bachelor of Engineering
-
-CERTIFICATES AND AWARDS
------------------
-
+Honors and Awards
+---------
 - English Certificate IV
 - Computer Certificate II
-- The national electronic design contest second prize of sichuan province, *2011.11*
-- The national electronic design contest third prize, *2011.12*
+- The national electronic design contest second prize of sichuan province, 2011.11
+- The national electronic design contest third prize, 2011.12
 
-THANKS
+Thanks
 ---------
-
-Thank you for taking time to read my resume, looking forward to be one of the family.
+Thank you for taking time to read my resume.
