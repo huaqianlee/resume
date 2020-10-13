@@ -14,8 +14,7 @@
 ------------------
 - 在 Android/Linux/嵌入式开发领域有 8 年以上的工作经验。
 - 熟悉 C/C++，Java，Python，Shell 等, 喜欢写一些脚本来提高工作效率。
-- 精通 Linux 内核驱动程序开发，并熟悉 Java 和 Python 应用程序的编程。
-- 熟悉嵌入式 Linux C 高级应用程序编程和内核机制。
+- 精通 Linux 内核驱动程序开发，熟悉 Java 和 Python 应用编程。
 - 熟悉 Qulacomm 平台（MSM8909/8974，SDM450/660 等），MTK 平台（MTK6570/6739 等）。
 - 有丰富的 Charger/USB，性能，功耗，稳定性等方面的开发和维护经验。
 
@@ -23,9 +22,9 @@
 ------------------
 这些是我平时用过/熟悉的编程语言和工具，带 ^†^ 符号的是我比较熟悉和常用的。
 
-- [C/C++](http://www.cplusplus.com/)^†^　[Java](https://www.java.com/en/)^†^　[Shell](http://zh.wikipedia.org/wiki/Unix_shell)　[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)　[HTML](https://html.spec.whatwg.org/multipage/)
+- [C/C++](http://www.cplusplus.com/)^†^　[Java](https://www.java.com/en/)^†^　[Shell](http://zh.wikipedia.org/wiki/Unix_shell)^†^　[Python](https://www.python.org/)　[HTML](https://html.spec.whatwg.org/multipage/)
 
-- [Vim](http://www.vim.org)^†^　[Git](http://git-scm.com)^†^　[Android Studio]()^†^　[Eclipse](http://www.eclipse.org/)^†^　[Ubuntu Linux](http://ubuntu.com)^†^　[Sublime Text](http://www.sublimetext.com)^†^　[SourceInsight]()^†^　[MySQL](http://mysql.com)
+- [Vim](http://www.vim.org)^†^　[Git](http://git-scm.com)^†^　[Android Studio]()^†^　[Docker](https://www.docker.com/)　[Ubuntu Linux](http://ubuntu.com)^†^　[MySQL](http://mysql.com)
 
 经验  
 ------------------
@@ -35,11 +34,11 @@
 
 *2018.04 - 至今，中科创达软件股份有限公司*
 
-负责高通平台（MSM8909/SDM450/SM6125/SDM660）的 BSP 和 System 相关开发和维护工作，包括电源管理，Charger/Battery，USB，Performance，Thermal,功耗，系统稳定性等。实现了大量客户定制的 Charger/Battery/USB 等相关代码，如将一个 USB 接口扩展为三个接口的 USB 。
+负责高通平台（MSM8909/SDM450/SM6125/SDM660）的 BSP 和 System 相关开发和维护工作，包括电源管理，Charger/Battery，USB，Performance，Thermal，Stability，功耗等。实现了大量客户定制的 Charger/Battery/USB 等相关需求，如将一个 USB 接口扩展为三个接口的 USB 。
 
-负责协助并解决疑难问题，参与 BSP 技术建设，从已有项目提取技术方案，并输出方案帮助大家提高研发效率。搭建了局网 Gitbook 服务器并发起组员技术输出，有效形成技术沉淀。
+负责协助并解决疑难问题，参与 BSP 技术建设，从已有项目提取技术方案，输出方案帮助大家提高研发效率。搭建了局网 Gitbook 服务器并发起组员技术输出，有效形成技术沉淀。
 
-### **Mobile phone based on MTK platform** 
+### **基于 MTK 平台的物流手机** 
 
 *2017.11 - 2018.04, 深圳东方拓宇科技有限公司*
 
